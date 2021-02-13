@@ -1,5 +1,7 @@
 <?php
 
-echo "sending email"
+echo "sending email";
+
+echo "another email sent";
 
 ?>
